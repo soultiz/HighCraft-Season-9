@@ -23,7 +23,7 @@ OS : Windows Server 2022
 ________________________________________________________________________________
 # Datapack Server List 📃
 
-HighCraft_UHC_9[ Hotfixed ] ( Private )
+HighCraftUHC_SS9( Private )
 ________________________________________________________________________________
 # Plugin Server List 📃
 
