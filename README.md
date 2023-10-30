@@ -9,6 +9,8 @@ Border :  2500 Block x 2500 Block
 Server : Paper
 
 seed : -
+
+Organizer : Soultiz & Hoog007 & IMZ_imanzaza & GuskungTH & TaeKungzZ
 ________________________________________________________________________________
 # - System Information 🖥️
 ________________________________________________________________________________
