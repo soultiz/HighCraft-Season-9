@@ -41,4 +41,47 @@ UHCRate
 
 Anti-Xray ( Paper.yml Edited )
 ________________________________________________________________________________
+# Player / Team 📃
+
+Blue
+- _babylarm\_
+- \_JustOng
+- NuttyZz
+- TaeKunGzZ
+
+Gold
+- ChocoZz
+- GDMgamer3992
+- SticKeRzReal
+- towul
+
+Green
+- Eydah
+- pakleXD
+- Ten10Ch
+- Waitwhatman206
+
+Purple
+- \_PGC\_
+- gartah
+- Hoog007
+- KyJa\_
+
+Red
+- alexlovegamer
+- IMZ\_imanzaza
+- StillBestAsia
+- TK\_TarKungZ
+
+White
+- KXNGza
+- Prompt2613
+- Tamayohh
+- ToastKung
+
+Spectators
+- GustkungTH
+- RcnTee
+- S\_ultz
+________________________________________________________________________________
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
